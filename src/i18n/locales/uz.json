@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "about": "Men haqimda",
+    "projects": "Loyihalar",
+    "contact": "Aloqa",
+    "hireMe": "Bog‘lanish"
+  },
+  "hero": {
+    "title": "Assalomu alaykum, men Mukhammaddiyor — Frontend Developer.",
+    "subtitle": "May–Noyabr oylarigacha Global Move Company’da ishlaganman. Noyabr oyining oxiridan esa hozirga qadar GameFit loyihasida faoliyat yuritib kelmoqdaman."
+  },
+  "cta": {
+    "seeProjects": "Loyihalarni ko‘rish",
+    "contact": "Aloqa"
+  },
+  "quick": {
+    "title": "Qisqa ma’lumot",
+    "desc": "Bir qarashda.",
+    "location": "Manzil",
+    "role": "Yo‘nalish",
+    "stack": "Stack"
+  },
+  "sections": {
+    "aboutTitle": "Men haqimda",
+    "aboutText": "Men Najot Ta'lim Educational Center’da 8 oy davomida tahsil oldim. HTML, CSS, SASS, Bootstrap, Tailwind CSS va JavaScript texnologiyalarini yaxshi bilaman hamda responsive dizayn va user experience’ga katta e’tibor beraman. React bilan ishlash tajribam bor, shuningdek state management uchun Context API, Redux va Redux Toolkit’dan foydalanganman. Git va GitHub orqali version control’ni ham yaxshi bilaman. Muammolarni yechish va analitik fikrlash ko‘nikmalarim kuchli; debugging va code optimization bo‘yicha samarali yondashuvga egaman. Men doimiy o‘rganishga va zamonaviy front-end framework’lar, best practice’lar hamda industry trendlaridan xabardor bo‘lib turishga intilaman. Bundan tashqari, Astro va Strapi texnologiyalari bilan ishlash tajribam ham bor.",
+    "projectsTitle": "Loyihalar",
+    "projectsSubtitle": "Eng yaxshi ishlarimdan namunalar.",
+    "contactTitle": "Aloqa",
+    "contactSubtitle": "Xabar qoldiring — tezda javob beraman."
+  },
+  "projects": {
+    "items": [
+      {
+        "title": "Yoshlar Ventures",
+        "desc": "O‘zbekistondagi startaplar uchun investitsiya imkoniyatlari platformasi.",
+        "tags": ["Astro", "Strapi", "UI/UX"],
+        "imageSrc": "/Projects/YoshlarVentures.png",
+        "demoUrl": "https://yoshlarventures.uz/uz/"
+      },
+      {
+        "title": "Target Consulting",
+        "desc": "Ta’lim bo‘yicha konsultatsiya platformasi (React + TypeScript).",
+        "tags": ["React", "TypeScript", "Strapi"],
+        "imageSrc": "/Projects/TargetConsulting.png",
+        "demoUrl": "https://targett.uz/"
+      },
+      {
+        "title": "GameFit",
+        "desc": "Game club’lar uchun yagona obuna platformasi (Next.js’da qilingan).",
+        "tags": ["Next.js", "TypeScript", "UI/UX"],
+        "imageSrc": "/Projects/GameFit.png",
+        "demoUrl": "https://gamefit.uz/"
+      },
+      {
+        "title": "LMS (Intil)",
+        "desc": "Zamonaviy UI va responsive tajribaga ega o‘quv boshqaruv tizimi.",
+        "tags": ["React", "TypeScript", "LMS"],
+        "imageSrc": "/Projects/LMS.png",
+        "demoUrl": "https://intil.glmv.dev/"
+      },
+      {
+        "title": "My To-do",
+        "desc": "Next.js va TypeScript’da qurilgan kundalik reja/to-do ilova.",
+        "tags": ["Next.js", "TypeScript", "Productivity"],
+        "imageSrc": "/Projects/MyToDo.png",
+        "demoUrl": "https://kunlikrejalarim.uz/"
+      },
+      {
+        "title": "CRM Dashboard",
+        "desc": "Mijozlar, sotuvlar va analitikani boshqarish uchun CRM dashboard.",
+        "tags": ["React", "Dashboard", "CRM"],
+        "imageSrc": "https://placehold.co/1200x675/png?text=CRM%20Dashboard",
+        "demoUrl": "https://e-commerce-two-beta-82.vercel.app/login"
+      },
+      {
+        "title": "GreenShop",
+        "desc": "O‘simliklar va eco-friendly mahsulotlar uchun e-commerce web ilova.",
+        "tags": ["E-commerce", "React", "UI"],
+        "imageSrc": "/Projects/GreenShop.png",
+        "demoUrl": "https://green-shop-iota-steel.vercel.app/?type=all-plants"
+      }
+    ],
+    "demo": "Demo",
+    "code": "Kod"
+  },
+  "form": {
+    "name": "Ism",
+    "email": "Email",
+    "message": "Xabar",
+    "namePlaceholder": "Ismingiz",
+    "emailPlaceholder": "name@example.com",
+    "messagePlaceholder": "Qanday yordam bera olaman?",
+    "send": "Yuborish"
+  },
+  "footer": {
+    "rights": "Barcha huquqlar himoyalangan.",
+    "backToTop": "Yuqoriga"
+  },
+  "meta": {
+    "emailLabel": "Email:"
+  }
+}
+
+

@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "hireMe": "Hire me"
+  },
+  "hero": {
+    "title": "Hi, I'm Mukhammaddiyor — Frontend Developer.",
+    "subtitle": "From May to November, I worked at Global Move Company. Since late November, I have been working on the GameFit project up to the present."
+  },
+  "cta": {
+    "seeProjects": "See projects",
+    "contact": "Contact"
+  },
+  "quick": {
+    "title": "Quick info",
+    "desc": "At a glance.",
+    "location": "Location",
+    "role": "Role",
+    "stack": "Stack"
+  },
+  "sections": {
+    "aboutTitle": "About",
+    "aboutText": "I have completed 8 months of study at Najot Ta'lim Educational Center. I am proficient in HTML, CSS, SASS, Bootstrap, Tailwind CSS, and JavaScript, with a strong focus on responsive design and user experience. I have experience working with React and state management tools such as Context API, Redux, and Redux Toolkit. I am also skilled in version control using Git and GitHub. I possess strong problem-solving and analytical thinking skills, with an effective approach to debugging and code optimization. I am committed to continuous learning and staying up to date with modern front-end frameworks, best practices, and industry trends. In addition, I have experience working with Astro and Strapi technologies.",
+    "projectsTitle": "Projects",
+    "projectsSubtitle": "A few highlights from my work.",
+    "contactTitle": "Contact",
+    "contactSubtitle": "Leave a message — I’ll reply soon."
+  },
+  "projects": {
+    "items": [
+      {
+        "title": "Yoshlar Ventures",
+        "desc": "Investment opportunities platform for startups in Uzbekistan.",
+        "tags": ["Astro", "Strapi", "UI/UX"],
+        "imageSrc": "/Projects/YoshlarVentures.png",
+        "demoUrl": "https://yoshlarventures.uz/uz/"
+      },
+      {
+        "title": "Target Consulting",
+        "desc": "Educational consulting platform with scalable React + TypeScript frontend.",
+        "tags": ["React", "TypeScript", "Strapi"],
+        "imageSrc": "/Projects/TargetConsulting.png",
+        "demoUrl": "https://targett.uz/"
+      },
+      {
+        "title": "GameFit",
+        "desc": "Subscription platform for game clubs (built with Next.js).",
+        "tags": ["Next.js", "TypeScript", "UI/UX"],
+        "imageSrc": "/Projects/GameFit.png",
+        "demoUrl": "https://gamefit.uz/"
+      },
+      {
+        "title": "LMS (Intil)",
+        "desc": "Learning management system with modern UI and responsive experience.",
+        "tags": ["React", "TypeScript", "LMS"],
+        "imageSrc": "/Projects/LMS.png",
+        "demoUrl": "https://intil.glmv.dev/"
+      },
+      {
+        "title": "My To-do",
+        "desc": "Daily planning app built with Next.js and TypeScript.",
+        "tags": ["Next.js", "TypeScript", "Productivity"],
+        "imageSrc": "/Projects/MyToDo.png",
+        "demoUrl": "https://kunlikrejalarim.uz/"
+      },
+      {
+        "title": "CRM Dashboard",
+        "desc": "All-in-one CRM dashboard to manage customers, sales, and analytics.",
+        "tags": ["React", "Dashboard", "CRM"],
+        "imageSrc": "https://placehold.co/1200x675/png?text=CRM%20Dashboard",
+        "demoUrl": "https://e-commerce-two-beta-82.vercel.app/login"
+      },
+      {
+        "title": "GreenShop",
+        "desc": "Responsive e-commerce app for selling plants and eco-friendly products.",
+        "tags": ["E-commerce", "React", "UI"],
+        "imageSrc": "/Projects/GreenShop.png",
+        "demoUrl": "https://green-shop-iota-steel.vercel.app/?type=all-plants"
+      }
+      
+    ],
+    "demo": "Demo",
+    "code": "Code"
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "name@example.com",
+    "messagePlaceholder": "How can I help?",
+    "send": "Send"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "backToTop": "Back to top"
+  },
+  "meta": {
+    "emailLabel": "Email:"
+  }
+}
+
+

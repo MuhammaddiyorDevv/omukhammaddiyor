@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "about": "Обо мне",
+    "projects": "Проекты",
+    "contact": "Контакты",
+    "hireMe": "Связаться"
+  },
+  "hero": {
+    "title": "Привет, я Mukhammaddiyor — Frontend Developer.",
+    "subtitle": "С мая по ноябрь я работал в компании Global Move Company. С конца ноября и по настоящее время работаю над проектом GameFit."
+  },
+  "cta": {
+    "seeProjects": "Смотреть проекты",
+    "contact": "Контакты"
+  },
+  "quick": {
+    "title": "Коротко",
+    "desc": "С первого взгляда.",
+    "location": "Локация",
+    "role": "Роль",
+    "stack": "Стек"
+  },
+  "sections": {
+    "aboutTitle": "Обо мне",
+    "aboutText": "Я прошёл(ла) 8 месяцев обучения в образовательном центре Najot Ta'lim Educational Center. Уверенно владею HTML, CSS, SASS, Bootstrap, Tailwind CSS и JavaScript, уделяя большое внимание адаптивной вёрстке и пользовательскому опыту. Есть опыт работы с React и инструментами управления состоянием, такими как Context API, Redux и Redux Toolkit. Также хорошо владею системами контроля версий Git и GitHub. Обладаю сильными навыками решения задач и аналитическим мышлением, эффективно подхожу к отладке и оптимизации кода. Постоянно учусь и стараюсь быть в курсе современных front-end фреймворков, best practices и трендов индустрии. Кроме того, есть опыт работы с технологиями Astro и Strapi.",
+    "projectsTitle": "Проекты",
+    "projectsSubtitle": "Несколько лучших примеров моих работ.",
+    "contactTitle": "Контакты",
+    "contactSubtitle": "Оставьте сообщение — отвечу в ближайшее время."
+  },
+  "projects": {
+    "items": [
+      {
+        "title": "Yoshlar Ventures",
+        "desc": "Платформа инвестиционных возможностей для стартапов в Узбекистане.",
+        "tags": ["Astro", "Strapi", "UI/UX"],
+        "imageSrc": "/Projects/YoshlarVentures.png",
+        "demoUrl": "https://yoshlarventures.uz/uz/"
+      },
+      {
+        "title": "Target Consulting",
+        "desc": "Платформа образовательного консалтинга (React + TypeScript).",
+        "tags": ["React", "TypeScript", "Strapi"],
+        "imageSrc": "/Projects/TargetConsulting.png",
+        "demoUrl": "https://targett.uz/"
+      },
+      {
+        "title": "GameFit",
+        "desc": "Платформа единой подписки для игровых клубов (на Next.js).",
+        "tags": ["Next.js", "TypeScript", "UI/UX"],
+        "imageSrc": "/Projects/GameFit.png",
+        "demoUrl": "https://gamefit.uz/"
+      },
+      {
+        "title": "LMS (Intil)",
+        "desc": "Система управления обучением с современным UI и адаптивным UX.",
+        "tags": ["React", "TypeScript", "LMS"],
+        "imageSrc": "/Projects/LMS.png",
+        "demoUrl": "https://intil.glmv.dev/"
+      },
+      {
+        "title": "My To-do",
+        "desc": "Приложение для планирования дня на Next.js и TypeScript.",
+        "tags": ["Next.js", "TypeScript", "Productivity"],
+        "imageSrc": "/Projects/MyToDo.png",
+        "demoUrl": "https://kunlikrejalarim.uz/"
+      },
+      {
+        "title": "CRM Dashboard",
+        "desc": "CRM‑dashboard для управления клиентами, продажами и аналитикой.",
+        "tags": ["React", "Dashboard", "CRM"],
+        "imageSrc": "https://placehold.co/1200x675/png?text=CRM%20Dashboard",
+        "demoUrl": "https://e-commerce-two-beta-82.vercel.app/login"
+      },
+      {
+        "title": "GreenShop",
+        "desc": "Адаптивное e-commerce приложение для продажи растений и eco‑товаров.",
+        "tags": ["E-commerce", "React", "UI"],
+        "imageSrc": "/Projects/GreenShop.png",
+        "demoUrl": "https://green-shop-iota-steel.vercel.app/?type=all-plants"
+      }
+    ],
+    "demo": "Демо",
+    "code": "Код"
+  },
+  "form": {
+    "name": "Имя",
+    "email": "Email",
+    "message": "Сообщение",
+    "namePlaceholder": "Ваше имя",
+    "emailPlaceholder": "name@example.com",
+    "messagePlaceholder": "Чем могу помочь?",
+    "send": "Отправить"
+  },
+  "footer": {
+    "rights": "Все права защищены.",
+    "backToTop": "Наверх"
+  },
+  "meta": {
+    "emailLabel": "Email:"
+  }
+}
+
+
